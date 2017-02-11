@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_1">SHIMLA is the capital of INDIA</string>
+    <string name="false_button">FALSE</string>
+    <string name="true_button">TRUE</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
